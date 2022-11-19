@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-Link:
+Link: https://cytoplasma.github.io/jQuery-scheduler/ 
 
 ![screenshot](./ss.png)
 
